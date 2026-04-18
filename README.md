@@ -2,8 +2,8 @@
 
 [English](README.md) | [中文](README_CN.md)
 
+> **Warning**: This project is under active development and is NOT ready for production use. APIs and behavior may change without notice. Use at your own risk.
 
-test
 ## Overview
 
 **Spark Materialized View (SMV)** is a query rewriting plugin for Apache Spark 3.3.2 that introduces first-class materialized view support. It enables automatic query rewriting using pre-computed materialized views, dramatically accelerating analytical workloads without requiring manual query changes.
